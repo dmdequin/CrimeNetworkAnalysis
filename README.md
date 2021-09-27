@@ -10,6 +10,7 @@ The data is a bipartite network of associations between suspects, victims and/or
 
 Data are derived from police records, via snowball sampling from five initial homicides.
 
+There are 1380 nodes and 1476 edges in the network.
 
 https://networks.skewed.de/net/crime
 
