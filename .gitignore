@@ -4,3 +4,7 @@ Gephi/test.gephi
 Data/edge_list.csv
 Notebooks/edgelist.csv
 Notebooks/nodelist.csv
+Notebooks/degree_distribution.png
+Notebooks/ccdf_fit.png
+Notebooks/degree_distribution_loglog.png
+Notebooks/degree_distribution_ccdf.png
